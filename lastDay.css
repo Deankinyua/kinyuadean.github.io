@@ -15,8 +15,11 @@ body {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
-  padding: 1rem 1rem;
 }
+
+/* .wrapper {
+  
+} */
 
 .firstSectionTitle {
   padding-top: 4px;
@@ -103,6 +106,7 @@ img {
 }
 
 .firstSection {
+  padding: 1rem 1rem;
   padding-top: 3rem;
   background: #3b4050;
   color: white;
@@ -128,6 +132,7 @@ img {
 
 .secondSection {
   background: #dde0e6;
+  padding: 1rem 1rem;
   padding-top: 1.5rem;
   font-size: 1.8rem;
 }
@@ -141,6 +146,7 @@ img {
 }
 
 .thirdSection {
+  padding: 1rem 1rem;
   line-height: 1.3;
 }
 
